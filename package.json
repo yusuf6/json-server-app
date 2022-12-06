@@ -1,0 +1,20 @@
+{
+  "name": "json-server-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx json-server --watch data/db.json --port 8100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusuf6/json-server-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusuf6/json-server-app/issues"
+  },
+  "homepage": "https://github.com/yusuf6/json-server-app#readme"
+}
